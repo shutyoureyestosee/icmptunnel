@@ -10,7 +10,7 @@
 
 #define ARG_SERVER_MODE "-s"
 #define ARG_CLIENT_MODE "-c"
-
+#
 void usage()
 {
   printf("Wrong argument\n");
